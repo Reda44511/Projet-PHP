@@ -1,0 +1,7 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#f1f3f5"/>
+  <rect x="120" y="120" width="560" height="260" rx="24" fill="#e9ecef"/>
+  <path d="M220 340L320 240L390 310L470 230L580 340H220Z" fill="#d0d5dd"/>
+  <circle cx="320" cy="210" r="28" fill="#d0d5dd"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#868e96">FoodDrop</text>
+</svg>
